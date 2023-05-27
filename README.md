@@ -1,12 +1,8 @@
-
-<div align="center">
-  
 # E commerce Website
   
 <h4>It is model webpage designed for online shoping.&nbsp;
-It was designed responsively for mobile screen view.</h4>
-      
-</div>
+It was designed responsively for mobile screen view.
+I designed using reference model from&nbsp; <a href="https://youtu.be/P8YuWEkTeuE">Tech2 etc</h4>
 
 <br>
 
